@@ -7,6 +7,5 @@
 
 
 💻 **Tech Stacks** 💻
-https://github-readme-stats.vercel.app/api?username=itsmeeSanj
 
 
